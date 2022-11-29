@@ -8,6 +8,7 @@
 /docs/stats/
 /lisp/*-autoloads.el
 /lisp/*.elc
+*.elc
 
 /docs/magit/
 /docs/magit-section/
